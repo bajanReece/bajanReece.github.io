@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on The User Centric Blog</title>
-    <link>http://localhost:1313/post/</link>
-    <description>Recent content in Posts on The User Centric Blog</description>
+    <title>User Empathy on The User Centric Blog</title>
+    <link>http://localhost:1313/categories/user-empathy/</link>
+    <description>Recent content in User Empathy on The User Centric Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <lastBuildDate>Wed, 22 Jul 2015 00:46:27 +0100</lastBuildDate>
-    <atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/categories/user-empathy/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>not empathetic</title>
