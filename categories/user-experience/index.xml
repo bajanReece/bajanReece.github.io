@@ -10,43 +10,37 @@
     <atom:link href="http://localhost:1313/categories/user-experience/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>not empathetic</title>
+      <title>You need to empathise with your clients</title>
       <link>http://localhost:1313/post/not-empathetic/</link>
       <pubDate>Wed, 22 Jul 2015 00:46:27 +0100</pubDate>
       
       <guid>http://localhost:1313/post/not-empathetic/</guid>
       <description>
 
-&lt;h1 id=&#34;won-t-empathise-with-your-clients-you-won-t-solve-their-problems:027791d82044cc939ab9ebe9a3369d47&#34;&gt;Won’t empathise with your clients? You won’t solve their problems.&lt;/h1&gt;
+&lt;h2 id=&#34;won-t-empathise-with-your-clients-you-won-t-solve-their-problems:027791d82044cc939ab9ebe9a3369d47&#34;&gt;Won’t empathise with your clients? You won’t solve their problems.&lt;/h2&gt;
+
+&lt;p&gt;Software applications are created for people to use. This is a pretty obvious statement for anyone who has ever turned on a computer or modern digital device, far less anyone involved in software creation. However, historically, it would be an alien concept to put users at the center of the software design process.&lt;/p&gt;
+
+&lt;p&gt;Only recently do we see a trend towards trying to understand more about the user, their motivations, goals and required outcomes. This is a move in the right direction, we are beginning to empathise with our users, and this a good thing. But it&amp;rsquo;s just the beginning, we need to use that empathy as a driver for us (the development team &amp;lsquo;us&amp;rsquo;) to deliver a great product for our clients.&lt;/p&gt;
+
+&lt;p&gt;This post is about UX in the enterprise. Changing how we think about our clients, who our clients are, why we should empathise with them and how we can use empathy as a driver to produce &lt;em&gt;great&lt;/em&gt; software.&lt;/p&gt;
 
 &lt;hr /&gt;
 
-&lt;p&gt;Empathy in the enterprise UX context, understand who your real clients are, how to understand what clients need vs what we want to provide, silencing our ego, not being dismissive of our users, how to get clients to talk so that you can listen, leaving your bias at the door.&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;blockquote&gt;
 &lt;p&gt;&lt;strong&gt;Empathy&lt;/strong&gt;&lt;br /&gt;
-&lt;em&gt;The psychological identification with or vicarious experiencing of the feelings, thoughts, or attitudes of another.&lt;/em&gt;
-&amp;gt; Dictionary.com&lt;/p&gt;
-&lt;/blockquote&gt;
+&lt;em&gt;The psychological identification with or vicarious experiencing of the feelings, thoughts, or attitudes of another.&lt;/em&gt;&lt;br /&gt;
+Dictionary.com&lt;/p&gt;
 
-&lt;h3 id=&#34;empathy-but-we-re-engineers:027791d82044cc939ab9ebe9a3369d47&#34;&gt;Empathy?! But we’re engineers!&lt;/h3&gt;
+&lt;hr /&gt;
 
-&lt;ul&gt;
-&lt;li&gt;We think logically&lt;/li&gt;
-&lt;li&gt;We have a depth of technical knowledge and skill&lt;/li&gt;
-&lt;li&gt;We’re quick learners&lt;/li&gt;
-&lt;li&gt;We can step outside of the problem&lt;/li&gt;
-&lt;/ul&gt;
+&lt;p&gt;When I speak to some engineers about empathising with clients I hear comments that fall into the following categories:&lt;/p&gt;
 
-&lt;h3 id=&#34;and-anway-clients:027791d82044cc939ab9ebe9a3369d47&#34;&gt;&amp;hellip; and anway, clients&amp;hellip;&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Don’t know what they need&lt;/li&gt;
-&lt;li&gt;Have the wrong priorities&lt;/li&gt;
-&lt;li&gt;Have to be coerced into making the correct decisions&lt;/li&gt;
-&lt;/ul&gt;
+&lt;ol&gt;
+&lt;li&gt;Why do we need to empathise when the requirements tell us all we need to know about the problem at hand?&lt;/li&gt;
+&lt;li&gt;Is this &lt;em&gt;really&lt;/em&gt; going to improve anything?&lt;/li&gt;
+&lt;li&gt;Sounds like an expensive waste of time&lt;/li&gt;
+&lt;li&gt;You&amp;rsquo;ve gone native&lt;/li&gt;
+&lt;/ol&gt;
 
 &lt;h3 id=&#34;why-empathise:027791d82044cc939ab9ebe9a3369d47&#34;&gt;Why empathise?&lt;/h3&gt;
 
