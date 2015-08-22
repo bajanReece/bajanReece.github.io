@@ -10,106 +10,194 @@
     <atom:link href="http://localhost:1313/categories/user-experience/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>You need to empathise with your clients</title>
+      <title>You need to empathise with your users</title>
       <link>http://localhost:1313/post/not-empathetic/</link>
       <pubDate>Wed, 22 Jul 2015 00:46:27 +0100</pubDate>
       
       <guid>http://localhost:1313/post/not-empathetic/</guid>
       <description>
 
-&lt;h2 id=&#34;won-t-empathise-with-your-clients-you-won-t-solve-their-problems:027791d82044cc939ab9ebe9a3369d47&#34;&gt;Won’t empathise with your clients? You won’t solve their problems.&lt;/h2&gt;
+&lt;h2 id=&#34;won-t-empathise-with-your-users-you-won-t-solve-their-problems:027791d82044cc939ab9ebe9a3369d47&#34;&gt;Won’t empathise with your users? You won’t solve their problems.&lt;/h2&gt;
 
-&lt;p&gt;Software applications are created for people to use. This is a pretty obvious statement for anyone who has ever turned on a computer or modern digital device, far less anyone involved in software creation. However, historically, it would be an alien concept to put users at the center of the software design process.&lt;/p&gt;
+&lt;p&gt;Software applications are created for people to use. This is a pretty obvious statement for anyone who has ever operated a modern digital device, moreso anyone involved in software creation. However, historically, it was an alien concept that users should be at the centre of the software design process.&lt;/p&gt;
 
-&lt;p&gt;Only recently do we see a trend towards trying to understand more about the user, their motivations, goals and required outcomes. This is a move in the right direction, we are beginning to empathise with our users, and this a good thing. But it&amp;rsquo;s just the beginning, we need to use that empathy as a driver for us (the development team &amp;lsquo;us&amp;rsquo;) to deliver a great product for our clients.&lt;/p&gt;
+&lt;p&gt;Only recently do we see a trend towards trying to understand more about the user, their motivations, goals and required outcomes. I think this is a move in the right direction, we are beginning to empathise with our users, and this a good thing. But it&amp;rsquo;s just the beginning and we need to use that empathy as a driver for us (the development team &lt;em&gt;us&lt;/em&gt;) to deliver a great product for our clients.&lt;/p&gt;
 
-&lt;p&gt;This post is about UX in the enterprise. Changing how we think about our clients, who our clients are, why we should empathise with them and how we can use empathy as a driver to produce &lt;em&gt;great&lt;/em&gt; software.&lt;/p&gt;
+&lt;p&gt;This post is about UX in the enterprise. Changing how we think about our clients, who our clients are, why we should empathise with them and how we can use empathy to motivate us to produce &lt;em&gt;great&lt;/em&gt; software.&lt;/p&gt;
 
 &lt;hr /&gt;
 
 &lt;p&gt;&lt;strong&gt;Empathy&lt;/strong&gt;&lt;br /&gt;
 &lt;em&gt;The psychological identification with or vicarious experiencing of the feelings, thoughts, or attitudes of another.&lt;/em&gt;&lt;br /&gt;
-Dictionary.com&lt;/p&gt;
+&lt;a href=&#34;http://dictionary.reference.com/browse/empathy&#34; title=&#34;Empathy on Dictionary.com&#34;&gt;Dictionary.com&lt;/a&gt;&lt;/p&gt;
 
 &lt;hr /&gt;
 
-&lt;p&gt;When I speak to some engineers about empathising with clients I hear comments that fall into the following categories:&lt;/p&gt;
+&lt;p&gt;When I speak to some engineers about empathising with clients I hear comments that fall into one of the following categories:&lt;/p&gt;
 
-&lt;ol&gt;
+&lt;ul&gt;
 &lt;li&gt;Why do we need to empathise when the requirements tell us all we need to know about the problem at hand?&lt;/li&gt;
 &lt;li&gt;Is this &lt;em&gt;really&lt;/em&gt; going to improve anything?&lt;/li&gt;
 &lt;li&gt;Sounds like an expensive waste of time&lt;/li&gt;
-&lt;li&gt;You&amp;rsquo;ve gone native&lt;/li&gt;
-&lt;/ol&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;These aren&amp;rsquo;t unexpected responses, it&amp;rsquo;s easy to put empathy into the &amp;ldquo;touchy feely&amp;rdquo;, &amp;ldquo;let&amp;rsquo;s all hug and get along&amp;rdquo; box of project management.&lt;/p&gt;
+
+&lt;p&gt;To very logical, cerebral and metric-orientated people (i.e. engineers) being asked to consider what a user would &lt;em&gt;feel&lt;/em&gt; is not part of the deal. As engineers we think deeply, learn quickly and solve the problems. And in any case, the client will muck the project up in the end, won&amp;rsquo;t they?&lt;/p&gt;
+
+&lt;h3 id=&#34;clients-who-needs-them:027791d82044cc939ab9ebe9a3369d47&#34;&gt;Clients. Who needs them?&lt;/h3&gt;
+
+&lt;p&gt;Go to any pub near an engineering or creative agency and you&amp;rsquo;ll hear the usual moans about clients:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Clients don’t know what they need&lt;/li&gt;
+&lt;li&gt;Clients have the wrong priorities&lt;/li&gt;
+&lt;li&gt;Clients have to be coerced into making the correct decisions&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The above are lazy and dangerous thought patterns, they insult the client organisation and the people working there. The bottom line is that if the client organisation is making enough money to hire you,  they&amp;rsquo;ve done &lt;em&gt;something&lt;/em&gt; right.&lt;/p&gt;
+
+&lt;p&gt;The problem with the statements above is that they display a lack of understanding the client&amp;rsquo;s motivations, goals and current impediments.&lt;/p&gt;
+
+&lt;p&gt;Another thing the moaners forget is that we&amp;rsquo;re (usually) hired to make the day to day life of real people better. These people could be staff at the client organisation or the general public; real people who we&amp;rsquo;re being asked to help. So we should try our hardest to help them, shouldn&amp;rsquo;t we?&lt;/p&gt;
 
 &lt;h3 id=&#34;why-empathise:027791d82044cc939ab9ebe9a3369d47&#34;&gt;Why empathise?&lt;/h3&gt;
 
+&lt;p&gt;Empathy does a number of things, but the main thing is it increases the likelihood that an engineer will think of a user and his pain points when she&amp;rsquo;s creating a feature.&lt;/p&gt;
+
+&lt;p&gt;Due to the fact that she will have sat with the user, watched them use their current software or device and now has an understanding of his frustrations, concerns and impediments to success, she will be creating the feature with these things in mind. She&amp;rsquo;s thinking about how her software will affect a &lt;em&gt;human being&lt;/em&gt; and there is no amount of requirement documentation that will give her that emotional connection.&lt;/p&gt;
+
+&lt;p&gt;As part of this emotional connection comes another benefit, when we empathise we are more likely to try to help the person in need solve their problem &lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:027791d82044cc939ab9ebe9a3369d47:1&#34;&gt;&lt;a rel=&#34;footnote&#34; href=&#34;#fn:027791d82044cc939ab9ebe9a3369d47:1&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
+
+&lt;p&gt;Empathy can also help to develop a shared trust in the application development process. The users see that the engineers are interested in helping to solve their problems and the engineers see the real users behind the application.&lt;/p&gt;
+
+&lt;p&gt;With empathy there comes deeper understanding of the triggers, impediments, risks and goals of the client organisation. This helps the engineering team align more closely with the client team(s).&lt;/p&gt;
+
+&lt;p&gt;And one of the nicest things empathy can do is help surface non-functional requirements. How the application or device should &lt;em&gt;feel&lt;/em&gt; to use or how it should work with other applications in the user&amp;rsquo;s workflow.&lt;/p&gt;
+
+&lt;h3 id=&#34;how-can-we-develop-empathy-for-our-users:027791d82044cc939ab9ebe9a3369d47&#34;&gt;How can we develop empathy for our users?&lt;/h3&gt;
+
+&lt;p&gt;If we accept that empathy is a driver for a better delivery how do we go about developing empathy and including it in our daily work? The answer is that, as Agile practitioners, we&amp;rsquo;re most of the way there already.&lt;/p&gt;
+
+&lt;p&gt;In the requirements engineering or product research phases of a project you would have:&lt;/p&gt;
+
 &lt;ul&gt;
-&lt;li&gt;Shared trust in the development process&lt;/li&gt;
-&lt;li&gt;See things from the client’s point of view&lt;/li&gt;
-&lt;li&gt;Deeper understanding of the issue(s)&lt;/li&gt;
-&lt;li&gt;More creative problem solving&lt;/li&gt;
-&lt;li&gt;Surface non-functional requirements&lt;/li&gt;
+&lt;li&gt;Researched the client and client teams&lt;/li&gt;
+&lt;li&gt;Interviewed users&lt;/li&gt;
+&lt;li&gt;Walked around their work or usage environment(s)&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h3 id=&#34;how-can-we-develop-empathy-for-our-clients:027791d82044cc939ab9ebe9a3369d47&#34;&gt;How can we develop empathy for our clients?&lt;/h3&gt;
+&lt;p&gt;The only difference is that the next time you do it, keep your eyes and ears open. Here are some pointers to get you started.&lt;/p&gt;
 
-&lt;p&gt;Learn about your clients and their users&lt;/p&gt;
+&lt;h4 id=&#34;learn-about-your-clients-and-their-users:027791d82044cc939ab9ebe9a3369d47&#34;&gt;Learn about your clients and their users&lt;/h4&gt;
 
-&lt;ul&gt;
-&lt;li&gt;Find out who the potential users are&lt;/li&gt;
-&lt;li&gt;Interview users with a structured questionnaire&lt;/li&gt;
-&lt;li&gt;Visit the space in which the product will be used&lt;/li&gt;
-&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Find out who the potential users are&lt;/strong&gt; by speaking to your client or product leads. You want to find the users directly affected by the product, those on the periphery and those who could be indirectly affected. In a corporate environment you&amp;rsquo;ll be looking for the teams for whom the product is being built, the teams that feed into them and the teams that are &amp;lsquo;clients&amp;rsquo; of the product output.&lt;/p&gt;
 
-&lt;p&gt;Find the correct users to talk to&lt;/p&gt;
+&lt;p&gt;If it&amp;rsquo;s a public-facing product you need to identify the target audience and then define the peripheral groups around them.&lt;/p&gt;
 
-&lt;ul&gt;
-&lt;li&gt;Assess the scope of the project to see who could be affected&lt;/li&gt;
-&lt;li&gt;Work with the client to define your interviewees&lt;/li&gt;
-&lt;li&gt;Don’t forget users on the periphery of the project scope&lt;/li&gt;
-&lt;li&gt;Interview as few people as is necessary to gain insight&lt;/li&gt;
-&lt;/ul&gt;
+&lt;p&gt;This is the start of your persona development&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:027791d82044cc939ab9ebe9a3369d47:2&#34;&gt;&lt;a rel=&#34;footnote&#34; href=&#34;#fn:027791d82044cc939ab9ebe9a3369d47:2&#34;&gt;2&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
 
-&lt;p&gt;Interview your users and stakeholders&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Interview users with a structured questionnaire&lt;/strong&gt; so that you can have a set of answers that allow for easy comparison. Don&amp;rsquo;t be afraid to let users go a bit off topic (this can uncover valuable information), but guide interviewees to keep them focussed on your core points of interest.&lt;/p&gt;
+
+&lt;p&gt;This is a qualitative research activity and as such you need to prepare in advance of your interview phase. The aim is to interview the smallest number of people from whom you can generate valuable insight.&lt;/p&gt;
+
+&lt;p&gt;You should also be prepared to update or change your questions as more information comes to the fore.&lt;/p&gt;
+
+&lt;p&gt;Some tips for interviews:&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;Ask open ended questions&lt;/li&gt;
+&lt;li&gt;Ask open-ended questions&lt;/li&gt;
+&lt;li&gt;Interview users in the place where they will be using the product&lt;/li&gt;
 &lt;li&gt;Take notes. Record the sessions if possible&lt;/li&gt;
 &lt;li&gt;Ask users to demonstrate their current workflow if relevant&lt;/li&gt;
 &lt;li&gt;Ask users to draw their perfect future app, UI or process&lt;/li&gt;
 &lt;li&gt;Try hard to shut up and listen&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;Visit the space where the product will be used&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Visit the space in which the product will be used&lt;/strong&gt; and note the clues of problems in the current state of their workflow. Do they have sticky notes or calendars? Are they all in small cubicles? Is the environment loud or quiet? If it&amp;rsquo;s a consumer product are users more likely to use it in the home or on the move? Answering these questions (or at the very least noting these environmental issues) will help you understand what your users currently do. This in turn will help you make their world better.&lt;/p&gt;
+
+&lt;p&gt;Tips for space visits:&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;Watch the user demo an existing workflow&lt;/li&gt;
-&lt;li&gt;Look out for items used to support the workflow
+&lt;li&gt;Record your visit (ask permission first of course!)&lt;/li&gt;
+&lt;li&gt;Witness a user performing a task from start to finish if possible&lt;/li&gt;
+&lt;li&gt;Take pictures of the environment (focus on any assistive items)&lt;/li&gt;
+&lt;li&gt;Take engineers. Take project managers. Take anyone on the team who is willing to come. Everyone on the engineering team should be able to talk intelligently about the product and the people who will be using it&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Immerse yourself in your notes&lt;/strong&gt; Read and reread your interview notes, watch your interviews and space visits. If there were any user sketches in your interviews review them, add notes, write follow-up questions.&lt;/p&gt;
+
+&lt;p&gt;Your aim is to get deep into the heads of the users. You want to have an understanding of the characteristics of each user type, their workflows and their interactions with others.&lt;/p&gt;
+
+&lt;p&gt;Where possible start using any products your users currently use within your target workflow. Sit with your users as often as you can (user shadowing can feel creepy to the user being shadowed; less is more) to get a good feel for their day-to-day.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Start working with your client&lt;/strong&gt; With all this good foundational work done, you should be in a better place to start considering how to make the world a better place for your users.&lt;/p&gt;
+
+&lt;p&gt;The next steps are all the things you would do in a project normally, but now with the benefit of deeper insight into the problem(s) from your user&amp;rsquo;s perspective.&lt;/p&gt;
+
+&lt;p&gt;You should now:&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;Look for notes on their desktop, crib sheets, calendars with annotation.&lt;/li&gt;
+&lt;li&gt;Create personas
+
+&lt;ul&gt;
+&lt;li&gt;You will want to align your user story writing with your personas.&lt;/li&gt;
 &lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;Watch the user interact with others&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Immerse yourself in your notes&lt;/p&gt;
+&lt;li&gt;Develop story maps
 
 &lt;ul&gt;
-&lt;li&gt;Read, listen or watch your interviews&lt;/li&gt;
-&lt;li&gt;Assess any user sketches&lt;/li&gt;
-&lt;li&gt;Write follow up questions&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Start working with your client&lt;/p&gt;
+&lt;li&gt;Storymapping &lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:027791d82044cc939ab9ebe9a3369d47:3&#34;&gt;&lt;a rel=&#34;footnote&#34; href=&#34;#fn:027791d82044cc939ab9ebe9a3369d47:3&#34;&gt;3&lt;/a&gt;&lt;/sup&gt; helps define activities and actions required in a product. A well-crafted storymap will help define priorities and even release plans&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Paper prototype UI workflows
 
 &lt;ul&gt;
-&lt;li&gt;Create personas&lt;/li&gt;
-&lt;li&gt;Develop story maps&lt;/li&gt;
-&lt;li&gt;Paper prototype UI workflows&lt;/li&gt;
-&lt;li&gt;Host UX workshops&lt;/li&gt;
-&lt;li&gt;Create user workflows with emotional states&lt;/li&gt;
+&lt;li&gt;Before you start pushing pixels, learn to tell your product story using paper. Extremely useful in screen-based products to demonstrate and get feedback on interactivity, UI and information architecture&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Host UX workshops
+
+&lt;ul&gt;
+&lt;li&gt;Essential. This is where you&amp;rsquo;ll debut features and get feedback. We use them to help refine requirements&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Create user workflows with emotional states
+
+&lt;ul&gt;
+&lt;li&gt;You need to know for each feature how the user will proceed to success or failure&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:027791d82044cc939ab9ebe9a3369d47:4&#34;&gt;&lt;a rel=&#34;footnote&#34; href=&#34;#fn:027791d82044cc939ab9ebe9a3369d47:4&#34;&gt;4&lt;/a&gt;&lt;/sup&gt;. With workflow diagrams you will uncover details required for your user stories.&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Create your backlog
+
+&lt;ul&gt;
+&lt;li&gt;You should now have enough information to write your &lt;em&gt;User&lt;/em&gt; stories and start the process of creating a backlog&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
 &lt;/ul&gt;
+
+&lt;h3 id=&#34;moving-forward:027791d82044cc939ab9ebe9a3369d47&#34;&gt;Moving forward&lt;/h3&gt;
+
+&lt;p&gt;So now you&amp;rsquo;ve got your backlog started, you&amp;rsquo;re able to consider how your different users need to be serviced through your product, your engineering teams and client teams have a healthy relationship and you&amp;rsquo;re hosting UX workshops with some regularity. All good.&lt;/p&gt;
+
+&lt;p&gt;Here are a few things to remember:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;You are &lt;strong&gt;not&lt;/strong&gt; your users. No matter how deeply you understand their issues, you must always back your suppositions up with proof&lt;/li&gt;
+&lt;li&gt;As with all things in Agile projects you must repeat, review and improve all of your processes, including how you work to gain empathy&lt;/li&gt;
+&lt;li&gt;Your engineering team must be encouraged to interact with their users (we find floor walks at arranged times are helpful)&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;We use all the techniques listed above where appropriate to help us gain insight into our clients and their issues. Focussing on users helps us to deliver great products, keep our clients happy and best of all, we have happy users.&lt;/p&gt;
+&lt;div class=&#34;footnotes&#34;&gt;
+
+&lt;hr /&gt;
+
+&lt;ol&gt;
+&lt;li id=&#34;fn:027791d82044cc939ab9ebe9a3369d47:1&#34;&gt;Google &amp;ldquo;empathy and prosocial behaviour&amp;rdquo; for some studies into this.
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:027791d82044cc939ab9ebe9a3369d47:1&#34;&gt;&lt;sup&gt;[return]&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:027791d82044cc939ab9ebe9a3369d47:2&#34;&gt;For more information on Personas click &lt;a href=&#34;http://www.agilemodeling.com/artifacts/personas.htm&#34; title=&#34;Agile Modelling&#34;&gt;here&lt;/a&gt;
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:027791d82044cc939ab9ebe9a3369d47:2&#34;&gt;&lt;sup&gt;[return]&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:027791d82044cc939ab9ebe9a3369d47:3&#34;&gt;Storymapping is a great tool for developing your backlog, read more &lt;a href=&#34;http://jpattonassociates.com/the-new-backlog/&#34; title=&#34;Jeff Patton Associates&#34;&gt;here&lt;/a&gt;
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:027791d82044cc939ab9ebe9a3369d47:3&#34;&gt;&lt;sup&gt;[return]&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:027791d82044cc939ab9ebe9a3369d47:4&#34;&gt;Workflow diagrams can be simple things, the See|Do method is a fast way to generate workflow. See more &lt;a href=&#34;https://medium.com/@tyrale/ux-triage-what-i-have-learned-performing-ux-audits-around-the-globe-250266ac95a5&#34; title=&#34;Medium&#34;&gt;here&lt;/a&gt;
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:027791d82044cc939ab9ebe9a3369d47:4&#34;&gt;&lt;sup&gt;[return]&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;
 </description>
     </item>
     
